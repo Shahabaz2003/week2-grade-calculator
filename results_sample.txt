@@ -1,0 +1,6 @@
+=== STUDENT GRADE REPORT GENERATED EXPORT ===
+
+Name                 |   Avg | Grade | Comment
+----------------------------------------------------------------------
+Amit                 |  87.7 |   B   | Very Good! You're doing well.
+Rahul                |  69.0 |   D   | Needs Improvement. Please study more.
