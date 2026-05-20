@@ -1,9 +1,23 @@
-# Week 2: Student Grade Calculator
+# 🎓 Student Grade Calculator - Week 2 Project
 
-Yeh mera Python ka control flow aur data structures ka project hai.
+### 📝 Project Description
+Yeh ek comprehensive Python tool hai jo multiple students ke marks calculate karta hai, unhe grades assign karta hai aur class ki analytics (Highest, Lowest, Average) nikalta hai.
 
-## Features
-- Multi-student grade calculation
-- Error handling for invalid inputs
-- Search student option
-- Save results to file
+### 🚀 Features
+- ✅ **Input Validation**: `try-except` ka use karke galat input (letters/out of range numbers) ko handle kiya gaya hai.
+- ✅ **Dynamic Grading**: Custom grading system (A to F) with personalized feedback.
+- ✅ **Class Statistics**: Pure batch ka highest aur lowest score automatic calculate hota hai.
+- ✅ **Search Functionality**: Kisi bhi student ka record naam se dhund sakte hain.
+- ✅ **File Export**: Results ko `results_sample.txt` mein save karne ki suvidha.
+
+### 🛠️ Technical Concepts Used
+- **Loops**: `while` loops for validation aur `for` loops student processing ke liye.
+- **Data Structures**: `List` aur `Dictionary` ka use karke data store kiya gaya hai.
+- **Conditionals**: `if-elif-else` ka use grading logic ke liye.
+
+### 📸 Screenshots
+![App Screenshot](DAALNA_HAI_STEP_3_MEIN)
+
+### 💻 How to Run
+1. Python install karein.
+2. Terminal mein jayein aur type karein: `python grade_calculator.py`
