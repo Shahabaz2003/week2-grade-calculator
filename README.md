@@ -16,7 +16,9 @@ Yeh ek comprehensive Python tool hai jo multiple students ke marks calculate kar
 - **Conditionals**: `if-elif-else` ka use grading logic ke liye.
 
 ### 📸 Screenshots
-![App Screenshot](DAALNA_HAI_STEP_3_MEIN)
+![App Screenshot]
+<img width="1440" height="900" alt="Screenshot 2026-05-20 at 16 07 56" src="https://github.com/user-attachments/assets/f3571f30-f94f-4b4f-83df-507c054f1e22" />
+
 
 ### 💻 How to Run
 1. Python install karein.
